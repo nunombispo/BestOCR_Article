@@ -1,0 +1,3 @@
+tesserocr
+pillow
+pypdfium2
