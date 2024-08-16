@@ -1,3 +1,7 @@
 tesserocr
 pillow
 pypdfium2
+
+paddlepaddle
+paddlepaddle-gpu
+paddleocr
