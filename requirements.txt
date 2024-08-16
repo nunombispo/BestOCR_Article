@@ -3,5 +3,5 @@ pillow
 pypdfium2
 
 paddlepaddle
-paddlepaddle-gpu
+#paddlepaddle-gpu
 paddleocr

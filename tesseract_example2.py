@@ -5,7 +5,7 @@ import pypdfium2 as pdfium
 # print(tesserocr.get_languages())  # prints tessdata path and list of available languages
 
 # Load a document
-pdf = pdfium.PdfDocument("bill-of-sale.pdf")
+pdf = pdfium.PdfDocument("nasa-apollo.pdf")
 
 # Loop over pages and render
 for i in range(len(pdf)):
