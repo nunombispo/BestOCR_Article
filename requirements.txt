@@ -5,3 +5,15 @@ pypdfium2
 paddlepaddle
 #paddlepaddle-gpu
 paddleocr
+
+
+azure-ai-documentintelligence
+
+
+boto3
+amazon-textract-response-parser
+amazon-textract-prettyprinter
+
+
+
+llmwhisperer-client
